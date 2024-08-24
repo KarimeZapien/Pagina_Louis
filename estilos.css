@@ -1,5 +1,22 @@
 
-
+article {
+    h2 {
+        color: rgba(33, 91, 91, 0.965);
+        font-size: 100;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .titulos {
+        color: rgb(136, 254, 214);
+        font-size: 80;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    text-align: center;
+    p {
+        color: rgb(238, 234, 227);
+        font-size: 50;
+        text-align: justify;
+    }
+}
 aside {background-color: rgb(208, 217, 36);}
 
 
